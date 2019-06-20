@@ -1,0 +1,5 @@
+cd
+ssh-keygen -t rsa
+cd .ssh
+id_rsa.pub  -> github(ssh)
+continue ginit.txt
